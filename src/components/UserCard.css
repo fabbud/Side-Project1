@@ -1,0 +1,45 @@
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.card-div {
+  border: 2px solid goldenrod;
+  width: 400px;
+  margin: 30px;
+  padding: 10px;
+  background-color: rgb(255, 209, 93);
+}
+
+.card-div p,
+.card-div span {
+  font-size: 0.9em;
+}
+
+.card-div h4 {
+  margin: 10px 0;
+}
+
+.contact-info {
+  border-top: 1px solid goldenrod;
+  padding: 5px 0;
+}
+
+.company-info {
+  border-top: 1px solid goldenrod;
+  padding: 5px 0;
+}
+
+.company-info-title {
+  font-weight: 600;
+}
+
+.delete-button {
+  width: 90px;
+  height: 30px;
+  background-color: rgb(187, 0, 0);
+  color: white;
+  font-weight: bold;
+  border-width: 2px;
+  border-color: rgb(146, 0, 0);
+}
